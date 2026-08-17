@@ -53,7 +53,7 @@
       contratada: 159.28
     },
 
-    valorMedioPorHa: 330.00,
+    valorMedioPorHa: 673.20,
 
     /* Datas de adesão, DD/MM/AAAA. A linha do tempo conta as adesões reais. */
     datasAdesao: [
